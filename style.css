@@ -1,0 +1,42 @@
+*{
+    background-color: black;
+    border-radius: 9%;
+}
+main{
+    background-color:rgba(128, 128, 128, 0.185);
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: "Inter", sans-serif
+}
+#place{
+    color: yellow;
+    font-size:14px;
+    background-color:rgba(128, 128, 128, 0);
+}
+.image{
+    border-radius: 100%;
+    width: 20%;
+    background-color:rgba(128, 128, 128, 0);
+    
+}
+h1{
+    background-color: rgba(128, 128, 128, 0.185);
+}
+p{
+    font-size: 14px;
+    background-color:rgba(128, 128, 128, 0);
+}
+div{
+    background-color:grey;
+    width: 50%;
+    text-align: center;
+    margin-top: 17px;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+}
